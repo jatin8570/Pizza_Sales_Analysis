@@ -50,16 +50,16 @@ Create a bar chart highlighting the bottom 5 best-selling pizzas based on the Re
  
 ### Raw Data
 There are 12 columns and 48,000 rows in this data set
-•	Pizza_id -> This data is for each pizza sold
-•	Order_id-> 1 person who is ordering the pizza (like if he order 5 pizza at same time) so same order_id will be there for that order
-•	 pizza_name_id-> the name of each pizza order
-•	Quantity-> how many pizzas of particular pizza_id is order
-•	Order_date-> On which date pizza order
-•	Order_time-> At which time pizza order
-•	Unit_price-> unit price of each pizza
-•	Total_pizza-> total price of each pizza
-•	Pizza_size-> Size of pizza small, medium, large, extra-large
-•	Pizza_category-> Category of pizza whether it's Classic, Veggie, Supreme, Chicken
-•	Pizza_ingredients-> ingredients use in particular selected pizza
-•	Pizza_name -> Name of the pizza
+* Pizza_id -> This data is for each pizza sold
+* Order_id-> 1 person who is ordering the pizza (like if he order 5 pizza at same time) so same order_id will be there for that order
+* pizza_name_id-> the name of each pizza order
+* Quantity-> how many pizzas of particular pizza_id is order
+* Order_date-> On which date pizza order
+* Order_time-> At which time pizza order
+* Unit_price-> unit price of each pizza
+* Total_pizza-> total price of each pizza
+* Pizza_size-> Size of pizza small, medium, large, extra-large
+* Pizza_category-> Category of pizza whether it's Classic, Veggie, Supreme, Chicken
+* Pizza_ingredients-> ingredients use in particular selected pizza
+* Pizza_name -> Name of the pizza
 
