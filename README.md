@@ -1,5 +1,7 @@
 ## Pizza Sales Analysis
 
+### Snapshot
+![Image](https://github.com/jatin8570/Pizza_Sales_Analysis/blob/main/Images/Pizza%20Sales%20Dashboard-1.png?raw=true)
 
 ### KPI's Requirement
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
